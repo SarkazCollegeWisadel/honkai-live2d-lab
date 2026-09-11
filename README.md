@@ -23,6 +23,8 @@
 - [AIRI 源码评估](docs/airi-review.md)
 - [语音与 LLM 接入](docs/speech-and-llm.md)
 - [2026-09-11 实测记录](docs/validation-2026-09-11.md)
+- [暂停位置与恢复顺序](docs/pause-2026-09-11.md)
+- [AIRI 六表情桥接原型](adapters/airi/README.md)
 
 ## 进度
 
