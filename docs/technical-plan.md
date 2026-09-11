@@ -8,7 +8,7 @@
 
 自动拆层与绑定只作为生产辅助。对 eyes/mouth/face turn 等关键部位，以实际形变结果决定是否使用自动结果，不以项目宣传或能够导出文件作为成品质量依据。
 
-独立 AI 伴侣将 AIRI 作为首选验证对象，Open-LLM-VTuber 作为后备。AIRI 的表情工具、动作驱动与桌面 MCP 实现较符合可扩展需求；接入用户已有 TTS，避免重复建设完整语音基础框架。最终选择依赖用户接口类型及样例运行结果。详见 [AIRI 源码评估](airi-review.md)。
+独立 AI 伴侣将 AIRI 作为首选验证对象，Open-LLM-VTuber 作为后备。AIRI 的表情工具、动作驱动与桌面 MCP 实现较符合可扩展需求；接入现有 Q 语音兼容接口，云端语音备选 Step Token Plan，聊天使用 DeepSeek。接口类型已确认，最终兼容性依赖样例运行结果。详见 [AIRI 源码评估](airi-review.md)与[语音接入计划](speech-and-llm.md)。
 
 ## 共同角色接口
 
