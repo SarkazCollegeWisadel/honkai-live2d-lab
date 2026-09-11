@@ -26,6 +26,8 @@
 - [暂停位置与恢复顺序](docs/pause-2026-09-11.md)
 - [AIRI 六表情桥接原型](adapters/airi/README.md)
 - [下午恢复后的实测与下一步](docs/resume-2026-09-11.md)
+- [月下自动绑定 v01 外观未通过记录](docs/luna-prototype-v01-rejected.md)
+- [正式拆层与绑定工作单](docs/art-production.md)
 
 ## 进度
 
