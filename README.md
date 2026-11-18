@@ -1,3 +1,5 @@
+> 分类：二次元（topic: anime）
+
 # Honkai Live2D Lab
 
 为《崩坏3》月下誓约·予爱以心（大月下）与繁星·绘世之卷（小格蕾修）规划可编辑的 Live2D 角色，以及可复用的 AI 互动、TTS、面捕和 Paper2Galgame 接入流程。
